@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Trophies
 <div display="flex">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhadeep3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" width=50% height=50%/>
+  <img src="https://github-profile-trophy.vercel.app/?username=subhadeep3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" width=100% height=50%/>
 </div>
 <br/>
 
