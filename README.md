@@ -40,9 +40,18 @@
 ## 📊 GitHub Stats:
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/subhadeep3902/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/subhadeep3902/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=subhadeep3902&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" width=40% height=90%/>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadeep3902&theme=jolly&hide_border=true" width=40% height=100%/>
+   <br/>
+   </a>
+</div>
+
+<div align=center> 
+   &nbsp;&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep3902&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></p>
+</div>
 
 
 
