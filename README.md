@@ -56,8 +56,9 @@
 
 
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=subhadeep3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<div display="flex">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhadeep3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" width=100%/>
+</div>
 <br/>
 
 ## ✍️ Quote of the Day
