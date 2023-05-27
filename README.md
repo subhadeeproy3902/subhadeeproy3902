@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-coder-subha&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
-<h1 align="center">Hello👋,Folks!</h1>
-<h2 align="center">I am Subhadeep Roy. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
+![]
+<br/>
+<h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
 <br/>
 
 # 💫 About Me:
