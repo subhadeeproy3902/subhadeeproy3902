@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-coder-subha&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
-![](me.png)
+![](https://raw.githubusercontent.com/subhadeep3902/subhadeep3902/main/me.png)
 <br/>
 <h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
 <br/>
