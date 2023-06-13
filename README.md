@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-coder-subha&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeep3902&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
 <img src="me.jpg" align="center"/>
 <br/>
 <h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
