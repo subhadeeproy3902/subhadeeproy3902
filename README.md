@@ -42,16 +42,9 @@
 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=subhadeep3902&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" width=40% height=90%/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadeep3902&theme=jolly&hide_border=true" width=40% height=100%/>
-   <br/>
-   </a>
-</div>
-
-<div align=center> 
-   &nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep3902&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhadeep3902&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=subhadeep3902&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep3902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
