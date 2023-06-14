@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeep3902&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
-<h1 align="center">Hi 👋! I am Subhadeep Roy
+<h1 align="center">Hi👋  I am Subhadeep Roy
 <br/>
 <h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
 <br/>
