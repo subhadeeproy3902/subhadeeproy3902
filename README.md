@@ -42,19 +42,19 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhadeep3902&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img src="https://streak-stats.demolab.com?user=subhadeep3902&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep3902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=subhadeeproy3902&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://streak-stats.demolab.com?user=subhadeeproy3902&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeeproy3902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=subhadeep3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=subhadeeproy3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subhadeep3902&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=subhadeeproy3902&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
 
 ## ✍️ Quote of the Day
