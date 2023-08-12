@@ -18,8 +18,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mvp_subha) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadeep3902) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mvp_Subha) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%231DA1F2.svg?logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/subha9_5roy350)
-[![Hackerearth](https://img.shields.io/badge/Hackerearth-%231DA1F2.svg?logo=Hackerearth&logoColor=white)](https://www.hackerearth.com/@subha9.5roy350) 
+[![LeetCode](https://img.shields.io/badge/Leetcode-%231DA1F2.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/Subhadeep3902/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-%231DA1F2.svg?logo=GeeksForGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/subhadeep3902) 
 <br/>
 
 ## 💻 My workspace
