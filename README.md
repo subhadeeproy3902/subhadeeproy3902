@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=c,cpp,js,html,css,py,git,mysql,react,nextjs,linux,arduino" />
+    <img src="https://skills.thijs.gg/icons?i=c,cpp,js,html,css,py,git,mysql,nextjs,tailwind,linux,arduino" />
   </a>
 </p>
 <br/>
