@@ -54,9 +54,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=subhadeeproy3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 <br/>
 
-[![An image of @subhadeeproy3902's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhadeeproy3902)](https://holopin.io/@subhadeeproy3902)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=subhadeeproy3902&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
