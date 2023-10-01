@@ -2,6 +2,7 @@
 <h1 align="center">Hi👋  I am Subhadeep Roy
 <br/>
 <h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
+  
 ## 💫 About Me:
 
 🔴 Tech enthusiast<br/>
