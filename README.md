@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋  I am Subhadeep Roy
 <br/>
 <h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
-  
+
 ## 💫 About Me:
 
 🔴 Tech enthusiast<br/>
@@ -13,7 +13,6 @@
 <br/>
 
 ## 🌐 Socials:
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mvp_subha) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadeep3902) 
