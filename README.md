@@ -4,11 +4,12 @@
 <h2 align="center">Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
 <br/>
 
-💫 About Me:
-🔴 Tech enthusiast<br>
-🔴 Member of IIC TMSL <br>
-🟡 Busy with C & Next Js<br>
-🟢 Ask me anything related to TECHNOLOGY <br>
+## 💫 About Me:
+
+🔴 Tech enthusiast<br/>
+🔴 Member of IIC TMSL <br/>
+🟡 Busy with C & Next Js<br/>
+🟢 Ask me anything related to TECHNOLOGY <br/>
 🟢 I am a Wholesome Guy 😎
 <br/>
 
