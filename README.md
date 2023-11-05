@@ -30,6 +30,7 @@
 
 <p><h2 style="text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Tech Stack:</span></h2></p>
   <p><h3>Web Dev Stacks</h3></p>
+  <div style="display: flex; gap:5px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=40/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 />
@@ -44,15 +45,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width=40 />
     <img src="./netlify.svg" width=40 />
-    <img src="./vercel.svg" width="40" />  
+    <img src="./vercel.svg" width="40" />
+  </div>  
     <br/>
-    <p><h3>Core Stacks</h3></p>
+  <p><h3>Core Stacks</h3></p>
+  <div style="display: flex; gap:5px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40/>
-    <p><h3>Others</h3></p>
+  </div>
+  <p><h3>Others</h3></p>
+  <div style="display: flex; gap:5px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40/>
@@ -61,6 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=40/>
+  </div>
 <br/>
 
 <h2 style="text-decoration: none; cursor: none;"> 📊 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
