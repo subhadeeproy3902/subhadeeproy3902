@@ -9,29 +9,32 @@
 <h2 style="text-decoration: none; cursor: none;"> 💫 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
   -webkit-text-fill-color: transparent">About Me:</span> </h2>
 
-🔴 Tech enthusiast<br/>
-🟡 Busy with <span style="color: aqua; font-weight: 600">React</span>, <span style="color: yellow; font-weight: 600">Astro</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span><br/>
-🟢 Making a bunch of cool project too :)
-<br/>
+<p>🔴 Tech enthusiast</p>
+<p>🟡 Busy with <span style="color: aqua; font-weight: 600">React</span>, <span style="color: yellow; font-weight: 600">Astro</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
+<p>🟢 Making a bunch of cool project too</p>
+
 
 <h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
   -webkit-text-fill-color: transparent">Socials:</span></h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mvp_subha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadeep3902)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@mvp_Subha)
-[![LeetCode](https://img.shields.io/badge/Leetcode-%2DAFC0.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/Subhadeep3902/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-%23DA1F2.svg?logo=GeeksForGeeks&logoColor=white&background=green)](https://auth.geeksforgeeks.org/user/subhadeep3902)
-<br/>
+<p style="color: #fff;">
+<a href="https://instagram.com/mvp_subha"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/subhadeep3902"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/@mvp_Subha"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://leetcode.com/Subhadeep3902/"><img src="https://img.shields.io/badge/Leetcode-%2DAFC0.svg?logo=Leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://github.com/subhadeeproy3902"><img src="https://img.shields.io/badge/GeeksForGeeks-%23DA1F2.svg?logo=GeeksForGeeks&logoColor=white&background=green" alt="GitHub" /></a>
+</p>
+
 
 <h2 style="text-decoration: none; cursor: none;">  💻 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
   -webkit-text-fill-color: transparent">My workspace:</span></h2>
 
-![](https://img.shields.io/badge/Windows_10-informational?style=flat&logo=Windows10&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/Intel-i3_10th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
-![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
-![](https://img.shields.io/badge/VS-Code-informational?style=flat&logo=vs-code&logoColor=white&color=0071C5)
-<br/>
+<p style="color: #fff;">
+<img src="https://img.shields.io/badge/Windows_10-informational?style=flat&logo=Windows10&logoColor=white&color=0078d6" alt="Windows" />
+<img src="https://img.shields.io/badge/Intel-i3_10th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5" alt="Intel" />
+<img src="https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN" alt="Ram" />
+<img src="https://img.shields.io/badge/VS-Code-informational?style=flat&logo=vs-code&logoColor=white&color=0071C5" alt="VS" /></p>
+
 
 <h2 style="text-decoration: none; cursor: none;">⚙ <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
   -webkit-text-fill-color: transparent">Tech Stack:</span></h2>
