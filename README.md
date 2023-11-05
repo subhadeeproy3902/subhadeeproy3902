@@ -1,21 +1,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeep3902&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
 
-<h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="background: linear-gradient(240deg, #11998e, #38ef7d);-webkit-background-clip: text;
-  -webkit-text-fill-color: transparent">Subhadeep Roy</span>
+<h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
-<h2 align="center">Currently pursuing B.TECH in <span style="background: linear-gradient(240deg, #11998e, #38ef7d);; -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent">CSE</span> at Techno Main Salt Lake.</h2>
+<h2 align="center">Currently pursuing B.TECH in <span style="color: #00c2e0">CSE</span> at Techno Main Salt Lake.</h2>
 
-<h2 style="text-decoration: none; cursor: none;"> 💫 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent">About Me:</span> </h2>
+<h2 style="text-decoration: none; cursor: none;"> 💫 <span style="color: #00c2e0">About Me:</span> </h2>
 
 <p>🔴 Tech enthusiast</p>
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">React</span>, <span style="color: yellow; font-weight: 600">Astro</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
 <p>🟢 Making a bunch of cool project too</p>
 
-
-<h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent">Socials:</span></h2>
+<h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2>
 
 <p style="color: #fff;">
 <a href="https://instagram.com/mvp_subha"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
@@ -25,9 +20,7 @@
 <a href="https://github.com/subhadeeproy3902"><img src="https://img.shields.io/badge/GeeksForGeeks-%23DA1F2.svg?logo=GeeksForGeeks&logoColor=white&background=green" alt="GitHub" /></a>
 </p>
 
-
-<h2 style="text-decoration: none; cursor: none;">  💻 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent">My workspace:</span></h2>
+<h2 style="text-decoration: none; cursor: none;">  💻 <span style="color: #00c2e0">My workspace:</span></h2>
 
 <p style="color: #fff;">
 <img src="https://img.shields.io/badge/Windows_10-informational?style=flat&logo=Windows10&logoColor=white&color=0078d6" alt="Windows" />
@@ -35,65 +28,39 @@
 <img src="https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN" alt="Ram" />
 <img src="https://img.shields.io/badge/VS-Code-informational?style=flat&logo=vs-code&logoColor=white&color=0071C5" alt="VS" /></p>
 
-
-<h2 style="text-decoration: none; cursor: none;">⚙ <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent">Tech Stack:</span></h2>
-
-<div style="display: flex; flex-wrap: wrap; gap:1rem; justify-content:center; align-items:center">
-  <div>
-    <div style="display: flex; gap:4px; align-items:center; justify-content:center; flex-wrap:wrap; background:#333;padding:5px;border-radius:10px; border: 2px solid aqua; margin: 0 auto;"> 
-    <h3>Web Dev Stacks</h3>
-    <div style="display: flex; gap:4px; align-items:center; justify-content:center; flex-wrap:wrap; background:#333;padding:15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=40/>      
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
-        <img src="./vite.svg" width=40>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width=40 style="filter: invert(1)"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40/>
-        <img src="astro.svg" width=40>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 style="filter: invert(1);"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width=40 />
-        <img src="./netlify.svg" width=40 />
-        <img src="./vercel.svg" width="40" /> 
-        </div>  
-    </div>
-  </div>
-  <div style="display: flex; flex-direction: column; gap:1rem">
-  <div>
-    <div style="display: flex; gap:4px; align-items:center; justify-content:center; flex-wrap:wrap; background:#333;padding:5px;border-radius:10px; border: 2px solid aqua; margin: 0 auto; flex-direction:column">
-    <h3>Core Stacks</h3>
-    <div style="display: flex; gap:4px; align-items:center; justify-content:center; flex-wrap:wrap; background:#333;padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40/>
-      </div>
-      </d>
-    </div>
-  </div>
-
-  <div>
-    <div style="display: flex; gap:4px; align-items:center; justify-content:center; flex-wrap:wrap; background:#333;padding:5px;border-radius:10px; border: 2px solid aqua; margin: 0 auto; flex-direction: column;">
-    <h3>Others</h3>
-    <div style="display: flex; gap:4px; align-items:center; justify-content:center; flex-wrap:wrap; background:#333;padding:15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width=40/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=40/>
-      </div>
-    </div>
-  </div>
-</div>
-  </div>
+<p><h2 style="text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Tech Stack:</span></h2></p>
+  <p><h3>Web Dev Stacks</h3></p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=40/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
+    <img src="./vite.svg" width=40>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width=40 style="filter: invert(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40/>
+    <img src="astro.svg" width=40>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width=40 />
+    <img src="./netlify.svg" width=40 />
+    <img src="./vercel.svg" width="40" />  
+    <br/>
+    <p><h3>Core Stacks</h3></p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40/>
+    <p><h3>Others</h3></p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=40/>
 <br/>
 
 <h2 style="text-decoration: none; cursor: none;"> 📊 <span style="background: linear-gradient(50deg, #00f260, #0575e6); -webkit-background-clip: text;
