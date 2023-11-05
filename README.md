@@ -40,7 +40,7 @@
     <img src="./vite.svg" width=40>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width=40 style="filter: invert(1)"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40/>
-    <img src="astro.svg" width=40>
+    <img src="./astro.svg" width=40>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 style="filter: invert(1);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
