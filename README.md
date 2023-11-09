@@ -87,6 +87,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=subhadeeproy3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+<p><h2 style="text-decoration: none; cursor: none;">☄️  <span style="color: #00c2e0">Hacktober Fest 2023:</span></h2></p>
+
+![](https://holopin.me/subhadeeproy3902)](https://holopin.io/@subhadeeproy3902)
+
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhadeeproy3902&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
