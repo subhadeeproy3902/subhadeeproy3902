@@ -89,7 +89,7 @@
 
 <p><h2 style="text-decoration: none; cursor: none;">☄️  <span style="color: #00c2e0">Hacktober Fest 2023:</span></h2></p>
 
-![](https://holopin.me/subhadeeproy3902)](https://holopin.io/@subhadeeproy3902)
+![](https://holopin.me/subhadeeproy3902)
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
