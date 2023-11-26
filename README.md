@@ -11,6 +11,7 @@
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">React</span>, <span style="color: yellow; font-weight: 600">Astro</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
 <p>🟢 Making a bunch of cool project too</p>
 
+
 <p><h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2></p>
 
 <p style="color: #fff;">
