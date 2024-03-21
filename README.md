@@ -4,6 +4,7 @@
 <br/>
 <h2 align="center">Currently pursuing B.TECH in <span style="color: #00c2e0">CSE</span> at Techno Main Salt Lake.</h2></p>
 
+
 <p><h2 style="text-decoration: none; cursor: none;"> 💫 <span style="color: #00c2e0">About Me:</span> </h2></p>
 
 <p>🔴 Tech enthusiast</p>
