@@ -101,7 +101,7 @@
 
 <p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
 
-<div style="display: flex; align-items: center; justify-content: center;"><img src="https://stats.justsong.cn/api/leetcode/?username=subhadeep3902&theme=react" /></div>
+<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Subhadeep3902?theme=dark&font=montserrat&radius=6" /></div>
 
 <p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
 
@@ -115,11 +115,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhadeeproy3902&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><h2 style="text-decoration: none; cursor: none;">✍️ <span style="color: #00c2e0">Quote of the Day: </span></h2></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subhadeeproy3902&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><h2 style="text-decoration: none; cursor: none;"> 😂 <span style="color: #00c2e0">Random Dev Meme: </span></h2></>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
