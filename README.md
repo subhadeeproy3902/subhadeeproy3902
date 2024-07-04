@@ -96,7 +96,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeeproy3902&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=react&hide_border=false&hide_progress=true" height="150" alt="languages graph"  />
 
-
+<img src="https://streak-stats.demolab.com?user=subhadeeproy3902&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </p>
 
 <p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
