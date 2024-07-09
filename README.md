@@ -1,8 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeep3902&label=Profile%20views&color=0e75b6&style=flat" alt="itz-coder-subha" /> </p>
+<img src="https://widgetbite.com/stats/subhadeeproy3902" alt="watching_count" />
 
-<p align="center">
-  <img src="subha.svg" />
-</p> 
 
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
@@ -12,8 +9,38 @@
 <p><h2 style="text-decoration: none; cursor: none;"> 💫 <span style="color: #00c2e0">About Me:</span> </h2></p>
 
 <p>🔴 Tech enthusiast</p>
-<p>🟡 Busy with <span style="color: aqua; font-weight: 600">React</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
+<p>🟡 Busy with <span style="color: aqua; font-weight: 600">Typescript</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
 <p>🟢 Making a bunch of cool project too</p>
+
+## Projects:
+
+| Project Name | Description |
+|--------------|-------------|
+| [Blox AI](https://blox-ai.vercel.app/) | Documents & diagrams for the Future with AI |
+| [Repx AI](https://repxai.vercel.app/) | AI Insights for Exceptional Student Report |
+| [MAAK 24](https://microsoft-aurora.tech/) | Event website for Microsoft Ambassadors Aurora Kolkata 2024 | 
+| [Eclectica TMSL](https://eclecticatmsl.tech/) | Website for literary club named Eclectica |
+| [Acess8](https://acess8.vercel.app/) | Access your daily needful seemlessly |
+| [Envisage 23](https://envisage23-iictech.vercel.app/) | Website for Envisage Event 2023 |
+| [Lazor](https://lazor.vercel.app/) | Event management website |
+| [Wishbday](https://wishbday.me/) | Wish bday to your close ones, the one they deserve :) |
+| [Poemic](https://poemic.vercel.app/) | Upload an image and see your image reciting a poem :) | 
+| [VSAI](https://vs-ai.vercel.app/) | Next gen AI powered code translator |
+| [Crowd Up](https://crowd-up.vercel.app/) | Crowdfunding platform for startups |
+| [Groq Tony](https://groq-tony.vercel.app/) | Iron Man themed Groq Chatbot |
+| [Chat Genai](https://chat-genai.vercel.app/) | Gemini AI Chatbot |
+| [GemNotes](https://gemnote.vercel.app/) | Notes app with categories |
+| [Note-Z](https://note-z.vercel.app/) | Notes app with AI Chatbot |
+| [Snapsite](https://snapsite-v1.vercel.app/) | Extract screenshot of any website |
+| [CodesShot](https://codesshot.vercel.app/) | Take beautiful screenshots of your code |
+| [PromptZ](https://promptz.vercel.app/) | Store and post ChatGpt prompts and use others if needed |
+| [Trimify](https://trimify.vercel.app/) | Article Summarizer |
+| [Github Profile Searcher](https://github-profile-searcher-two.vercel.app/) | Search anybody's github profile |
+| [Pix-L](https://pix-l.vercel.app/) | Image generator from text prompts |
+| [Student Management System](https://github.com/subhadeeproy3902/Student-Management-System) | A basic python based Student Management System with fees submissions |
+| [Weather](https://weatherme-chi.vercel.app/) | A weather website with charts :) |
+
+
 
 
 <p><h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2></p>
