@@ -1,7 +1,5 @@
 <img src="https://widgetbite.com/stats/subhadeeproy3902" alt="watching_count" />
 
-[![](https://visitcount.itsvg.in/api?id=subhadeeproy3902&icon=2&color=2)](https://visitcount.itsvg.in)
-
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
 <h2 align="center">Currently pursuing B.TECH in <span style="color: #00c2e0">CSE</span> at Techno Main Salt Lake.</h2></p>
