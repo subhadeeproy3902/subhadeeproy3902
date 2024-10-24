@@ -11,6 +11,34 @@
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">Typescript</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
 <p>🟢 Making a bunch of cool project too</p>
 
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><img src="image-url-blox-ai.png" alt="Blox AI" style="width:50px;height:50px;"> <a href="https://blox-ai.vercel.app/">Blox AI</a></td>
+    <td>Documents & diagrams for the Future with AI</td>
+  </tr>
+  <tr>
+    <td><img src="image-url-repx-ai.png" alt="Repx AI" style="width:50px;height:50px;"> <a href="https://repxai.vercel.app/">Repx AI</a></td>
+    <td>AI Insights for Exceptional Student Report</td>
+  </tr>
+  <tr>
+    <td><img src="image-url-maak-24.png" alt="MAAK 24" style="width:50px;height:50px;"> <a href="https://microsoft-aurora.tech/">MAAK 24</a></td>
+    <td>Event website for Microsoft Ambassadors Aurora Kolkata 2024</td>
+  </tr>
+  <tr>
+    <td><img src="image-url-eclectica-tmsl.png" alt="Eclectica TMSL" style="width:50px;height:50px;"> <a href="https://eclecticatmsl.tech/">Eclectica TMSL</a></td>
+    <td>Website for literary club named Eclectica</td>
+  </tr>
+  <tr>
+    <td><img src="image-url-acess8.png" alt="Acess8" style="width:50px;height:50px;"> <a href="https://acess8.vercel.app/">Acess8</a></td>
+    <td>Access your daily needful seamlessly</td>
+  </tr>
+</table>
+
+
 ## Projects:
 
 | Project Name | Description |
