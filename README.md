@@ -13,9 +13,9 @@
 
 ## Projects:
 
-| Project Name | Description | Preview |
-|--------------|-------------|---------|
-| [Blox AI](https://blox-ai.vercel.app/) | Documents & diagrams for the Future with AI | <img src="https://i.postimg.cc/rzXzkRgz/opengraph-image.png" alt="Blox AI" style="width:250px"> |
+| Project Name | Description |
+|--------------|-------------|
+| [Blox AI](https://blox-ai.vercel.app/) | Documents & diagrams for the Future with AI |
 | [Repx AI](https://repxai.vercel.app/) | AI Insights for Exceptional Student Report |
 | [MAAK 24](https://microsoft-aurora.tech/) | Event website for Microsoft Ambassadors Aurora Kolkata 2024 | 
 | [Eclectica TMSL](https://eclecticatmsl.tech/) | Website for literary club named Eclectica |
