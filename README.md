@@ -17,11 +17,11 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><img src="image-url-blox-ai.png" alt="Blox AI" style="width:50px;height:50px;"> <a href="https://blox-ai.vercel.app/">Blox AI</a></td>
+    <td><img src="https://i.postimg.cc/rzXzkRgz/opengraph-image.png" alt="Blox AI" style="width:50px;height:50px;"> <a href="https://blox-ai.vercel.app/">Blox AI</a></td>
     <td>Documents & diagrams for the Future with AI</td>
   </tr>
   <tr>
-    <td><img src="image-url-repx-ai.png" alt="Repx AI" style="width:50px;height:50px;"> <a href="https://repxai.vercel.app/">Repx AI</a></td>
+    <td><img src="https://i.postimg.cc/wxLngSv8/ogog.webp" alt="Repx AI" style="width:50px;height:50px;"> <a href="https://repxai.vercel.app/">Repx AI</a></td>
     <td>AI Insights for Exceptional Student Report</td>
   </tr>
   <tr>
