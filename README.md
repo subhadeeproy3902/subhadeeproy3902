@@ -17,7 +17,7 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td><img src="https://i.postimg.cc/rzXzkRgz/opengraph-image.png" alt="Blox AI" style="width:50px;height:50px;"> <a href="https://blox-ai.vercel.app/">Blox AI</a></td>
+    <td style="display: flex; align-items: center; gap: 1rem"><img src="https://i.postimg.cc/rzXzkRgz/opengraph-image.png" alt="Blox AI" style="width:100px"> <a href="https://blox-ai.vercel.app/">Blox AI</a></td>
     <td>Documents & diagrams for the Future with AI</td>
   </tr>
   <tr>
