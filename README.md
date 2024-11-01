@@ -115,15 +115,7 @@
   </div>
 <br/>
 
-<p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">GitHub Stats:</span></h2></p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=subhadeeproy3902&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeeproy3902&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=react&hide_border=false&hide_progress=true" height="150" alt="languages graph"  />
-
-<img src="https://streak-stats.demolab.com?user=subhadeeproy3902&locale=en&mode=daily&theme=github-dark-blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</p>
+[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fbento_1730464220560.png?alt=media&token=5c18f734-76d4-4708-9dbb-2b0b4e46efa4)](https://opbento.vercel.app)
 
 <p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
 
