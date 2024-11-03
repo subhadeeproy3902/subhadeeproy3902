@@ -115,7 +115,8 @@
   </div>
 <br/>
 
-[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fbento_1730464370170.png?alt=media&token=f053177a-dde3-4d93-bc9a-4880c024377e)](https://opbento.vercel.app)
+![Bento GitHub Stats](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento2%2Fbento_1730595416098.png?alt=media&token=e8dae345-0b7a-4058-bb80-b5aab3930e5e)
+
 
 <p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
 
