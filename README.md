@@ -1,5 +1,7 @@
 <img src="https://widgetbite.com/stats/subhadeeproy3902" alt="watching_count" />
 
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy3902.png?alt=media)
+
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
 <h2 align="center">Currently pursuing B.TECH in <span style="color: #00c2e0">CSE</span> at Techno Main Salt Lake.</h2></p>
