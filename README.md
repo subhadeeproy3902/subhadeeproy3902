@@ -1,6 +1,6 @@
 <img src="https://widgetbite.com/stats/subhadeeproy3902" alt="watching_count" />
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy3902f353b.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)
 
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
