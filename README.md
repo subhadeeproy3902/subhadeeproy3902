@@ -1,7 +1,5 @@
 <img src="https://widgetbite.com/stats/subhadeeproy3902" alt="watching_count" />
 
-[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)](https://opbento.edgexhq.tech)
-
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
 <h2 align="center">Currently pursuing B.TECH in <span style="color: #00c2e0">CSE</span> at Techno Main Salt Lake.</h2></p>
@@ -12,6 +10,8 @@
 <p>🔴 Tech enthusiast</p>
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">Typescript</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
 <p>🟢 Making a bunch of cool project too</p>
+
+[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)](https://opbento.edgexhq.tech)
 
 ## Projects:
 
