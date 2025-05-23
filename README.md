@@ -18,7 +18,7 @@
 | [ShadCN Themes](https://shadcnthemes.vercel.app/) | Randomise colors to Make it yours. |
 | [Blox AI](https://blox-ai.vercel.app/) | Documents & diagrams for the Future with AI |
 | [Repx AI](https://repxai.vercel.app/) | AI Insights for Exceptional Student Report |
-| [AI Terminal Bot]([https://aiterminalbot.vercel.app/](https://github.com/subhadeeproy3902/AI-Terminal-Bot)) | A lightweight and efficient AI chatbot built in C |
+| [AI Terminal Bot](https://github.com/subhadeeproy3902/AI-Terminal-Bot) | A lightweight and efficient AI chatbot built in C |
 | [MAAK 24](https://microsoft-aurora.tech/) | Event website for Microsoft Ambassadors Aurora Kolkata 2024 | 
 | [Eclectica TMSL](https://eclecticatmsl.tech/) | Website for literary club named Eclectica |
 | [Acess8](https://acess8.vercel.app/) | Access your daily needful seemlessly |
