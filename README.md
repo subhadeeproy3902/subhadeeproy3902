@@ -1,7 +1,7 @@
+[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)](https://opbento.edgexhq.tech)
+
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
-<h2 align="center">Currently pursuing B.TECH in <span style="color: #00c2e0">CSE</span> at Techno Main Salt Lake.</h2></p>
-
 
 <p><h2 style="text-decoration: none; cursor: none;"> 💫 <span style="color: #00c2e0">About Me:</span> </h2></p>
 
@@ -9,14 +9,16 @@
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">Typescript</span>, <span style="color: lime; font-weight: 600">Next JS</span> and <span style="color: pink; font-weight: 600">DSA</span></p>
 <p>🟢 Making a bunch of cool project too</p>
 
-[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)](https://opbento.edgexhq.tech)
-
 ## Projects:
 
 | Project Name | Description |
 |--------------|-------------|
+| [Mvpblocks](https://blocks.mvp-subha.me) | Instantly make MVP landing pages with Tailwind & Best UI |
+| [CN Docs](https://cn.mvp-subha.me) | Collaborative Class Notes – organized, beautiful, and editable with AI assistance |
+| [ShadCN Themes](https://shadcnthemes.vercel.app/) | Randomise colors to Make it yours. |
 | [Blox AI](https://blox-ai.vercel.app/) | Documents & diagrams for the Future with AI |
 | [Repx AI](https://repxai.vercel.app/) | AI Insights for Exceptional Student Report |
+| [AI Terminal Bot]([https://aiterminalbot.vercel.app/](https://github.com/subhadeeproy3902/AI-Terminal-Bot)) | A lightweight and efficient AI chatbot built in C |
 | [MAAK 24](https://microsoft-aurora.tech/) | Event website for Microsoft Ambassadors Aurora Kolkata 2024 | 
 | [Eclectica TMSL](https://eclecticatmsl.tech/) | Website for literary club named Eclectica |
 | [Acess8](https://acess8.vercel.app/) | Access your daily needful seemlessly |
