@@ -1,4 +1,4 @@
-[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)](https://opbento.edgexhq.tech)
+[![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fsubhadeeproy39025cf63.png?alt=media)](https://opbento.vercel.app)
 
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
