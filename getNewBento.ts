@@ -1,4 +1,5 @@
-const apiUrl = "https://opbento.vercel.app/api/bento?n=Subhadeep%20Roy&g=subhadeeproy3902&x=mvp_Subha&l=subhadeep3902&i=https%3A%2F%2Fi.postimg.cc%2FHsqvcD8Y%2Fsubha.jpg&p=mvp-subha.me&z=5cf63";
+const apiUrl = "https://opbento.vercel.app/api/bento?n=Subhadeep%20Roy&g=subhadeeproy3902&x=mvp_Subha&l=subhadeep3902&i=https%3A%2F%2Fi.postimg.cc%2FCLhT1D8s%2FIMG-20230616-WA0027.jpg&p=auradevs.co&z=9cc38";
+
 interface BentoResponse {
   url: string;
 }
