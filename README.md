@@ -1,4 +1,3 @@
-[![OpBento](https://opbento.vercel.app/api/bento/image?g=subhadeeproy3902&z=cf487)](https://opbento.vercel.app)
 
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hi👋  I am <span style="color: #00c2e0">Subhadeep Roy</span>
 <br/>
